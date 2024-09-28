@@ -26,10 +26,10 @@ The Email Forwarding System is a Node.js application designed to automatically f
 •	HTML/CSS/JavaScript: Technologies for the frontend interface.
 
 ## Uses
-•	Personal Email Management: Automatically forward important emails to another account without manual effort.
-•	Business Applications: Forward emails from customer service accounts to team members.
-•	Data Logging: Maintain records of important forwarded emails for compliance or monitoring purposes.
-•	Email Automation: Reduce the manual workload associated with email forwarding.
+1.	Personal Email Management: Automatically forward important emails to another account without manual effort.
+2.	Business Applications: Forward emails from customer service accounts to team members.
+3.	Data Logging: Maintain records of important forwarded emails for compliance or monitoring purposes.
+4.	Email Automation: Reduce the manual workload associated with email forwarding.
 
 ## Installation
 1.	Clone the Repository:
@@ -74,5 +74,5 @@ This project can be deployed on platforms such as Render, Vercel, or Netlify. Pl
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements or bug fixes, feel free to open an issue or submit a pull request.
 
-##mContact
+## Contact
 For inquiries or feedback, please reach out to me at: tusharguptagps@gmail.com.
