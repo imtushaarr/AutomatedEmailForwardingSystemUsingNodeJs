@@ -1,5 +1,8 @@
 # Email Forwarding System
 
+![WhatsApp Image 2024-09-29 at 03 21 34](https://github.com/user-attachments/assets/cb8e6527-1414-433a-ac24-f257d13c227b)
+
+
 ## Overview
 The Email Forwarding System is a Node.js application designed to automatically forward emails from one email account to another based on specified criteria. This application helps users efficiently manage their emails by automating the forwarding process, ensuring important messages are not missed.
 
