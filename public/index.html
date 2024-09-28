@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mail Forward System - Tushar Gupta</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Mail Forward System</h1>
+        <form id="send-email-form">
+            <label for="email">Enter Your Email Address:</label>
+            <input type="email" id="fromEmail" name="fromEmail" required placeholder="sender@gmail.com">
+            
+            <label for="subject">Enter Subject:</label>
+            <input type="text" id="subject" name="subject" required placeholder="Subject">
+            
+            <label for="message">Mail Content:</label>
+            <textarea id="message" name="message" rows="4" required></textarea>
+            
+            <button type="submit">Send Mail</button> <!-- Changed to type="submit" -->
+        </form>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
