@@ -10,20 +10,20 @@ The Email Forwarding System is a Node.js application designed to automatically f
 4.	Email Management: The application marks the original email as read after it has been successfully forwarded.
 
 ## Features
-•	Automatic Email Forwarding: Forwards emails automatically without manual intervention.
-•	Excel Logging: Saves information about forwarded emails (sender, subject, recipient) in an Excel file for tracking.
-•	User-friendly Interface: Simple web interface to interact with the email forwarding functionality.
-•	Real-time Email Processing: Checks for new emails at regular intervals and processes them accordingly.
-•	Mark as Read: Automatically marks forwarded emails as read in the source email account.
-•	Environment Configuration: Easily configurable email settings through a .env file.
+1.	Automatic Email Forwarding: Forwards emails automatically without manual intervention.
+2.	Excel Logging: Saves information about forwarded emails (sender, subject, recipient) in an Excel file for tracking.
+3.	User-friendly Interface: Simple web interface to interact with the email forwarding functionality.
+4.	Real-time Email Processing: Checks for new emails at regular intervals and processes them accordingly.
+5.	Mark as Read: Automatically marks forwarded emails as read in the source email account.
+6.	Environment Configuration: Easily configurable email settings through a .env file.
 
 ## Technologies Used
-•	Node.js: JavaScript runtime used for building the application.
-•	Express: Web framework to create the server.
-•	Nodemailer: Library used to send emails through SMTP.
-•	IMAP-simple: Library for reading emails via the IMAP protocol.
-•	ExcelJS: Library for creating and managing Excel files.
-•	HTML/CSS/JavaScript: Technologies for the frontend interface.
+1.	Node.js: JavaScript runtime used for building the application.
+2.	Express: Web framework to create the server.
+3.	Nodemailer: Library used to send emails through SMTP.
+4.	IMAP-simple: Library for reading emails via the IMAP protocol.
+5.	ExcelJS: Library for creating and managing Excel files.
+6.	HTML/CSS/JavaScript: Technologies for the frontend interface.
 
 ## Uses
 1.	Personal Email Management: Automatically forward important emails to another account without manual effort.
